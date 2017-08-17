@@ -1,0 +1,59 @@
+body{
+	background-image: url("../vintage-leaves.png");
+}
+
+.navbar{
+	background: #ffffff;
+	border-bottom: solid 3px #cccccc;
+}
+
+h1{
+	font-size: 20px;
+	color: red;
+	font-family: 'Georgia', Times, serif;
+	font-weight: bold;
+	background-color: #4aaaa5
+}
+
+h2{
+	border-bottom: solid 1px #cccccc;
+}
+
+a img{
+	width:50px;
+	height:50px;
+}
+
+#whatever{
+	background-color: white;
+}
+
+#beta{
+	background-color: white;
+}
+
+#delta{
+	background-color: white;
+}
+
+#whatever img{
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin-right: 10px;
+}
+
+#whatever p{
+	text-align: justify;
+	margin-right: -10px;
+}
+
+nav p{
+	margin-top: 40px;
+	text-align: center;
+}
+
+.navbar2{
+	height: 100px;
+	border-top: solid 3px #4aaaa5;
+}
